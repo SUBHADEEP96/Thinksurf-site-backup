@@ -1,0 +1,10 @@
+Eurasia:
+
+1.On View fabrics page Id,type and color have to fetch into the input field of edit roll section from database table Fabrics.
+
+2.On View fabrics page the quantity will add automatically add when type, color and size will match in database table cutpieces.
+
+3.and after submitting the update data button, the edit button will disable.
+
+4.On add production page after clicking edit button the quantity will reduce from cutpieces table when type,color,and size matches, twice the amount.
+for example if 100 is entered then 200 should be substracted from cutpieces table.

@@ -1,0 +1,137 @@
+[12-Mar-2020 07:53:11 UTC] PHP Notice:  Undefined index: roll2 in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 902
+[12-Mar-2020 07:53:11 UTC] PHP Notice:  Undefined index: type in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 904
+[12-Mar-2020 07:53:11 UTC] PHP Notice:  Undefined index: color in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 905
+[12-Mar-2020 07:53:11 UTC] PHP Notice:  Undefined index: size in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 906
+[12-Mar-2020 07:53:11 UTC] PHP Notice:  Undefined index: quantity in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 907
+[12-Mar-2020 07:53:11 UTC] PHP Notice:  Undefined variable: quantity3_2 in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 929
+[12-Mar-2020 07:53:11 UTC] PHP Notice:  Undefined variable: query2 in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 987
+[12-Mar-2020 07:53:11 UTC] PHP Warning:  mysqli_query(): Empty query in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 987
+[12-Mar-2020 07:53:11 UTC] PHP Notice:  Undefined variable: query4 in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 989
+[12-Mar-2020 07:53:11 UTC] PHP Warning:  mysqli_query(): Empty query in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 989
+[12-Mar-2020 07:53:11 UTC] PHP Notice:  Undefined variable: query6 in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 991
+[12-Mar-2020 07:53:11 UTC] PHP Warning:  mysqli_query(): Empty query in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 991
+[12-Mar-2020 07:53:11 UTC] PHP Notice:  Undefined variable: query8 in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 993
+[12-Mar-2020 07:53:11 UTC] PHP Warning:  mysqli_query(): Empty query in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 993
+[12-Mar-2020 07:53:11 UTC] PHP Notice:  Undefined variable: query10 in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 995
+[12-Mar-2020 07:53:11 UTC] PHP Warning:  mysqli_query(): Empty query in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 995
+[12-Mar-2020 07:53:26 UTC] PHP Notice:  Undefined index: roll2 in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 902
+[12-Mar-2020 07:53:26 UTC] PHP Notice:  Undefined index: type in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 904
+[12-Mar-2020 07:53:26 UTC] PHP Notice:  Undefined index: color in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 905
+[12-Mar-2020 07:53:26 UTC] PHP Notice:  Undefined index: size in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 906
+[12-Mar-2020 07:53:26 UTC] PHP Notice:  Undefined index: quantity in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 907
+[12-Mar-2020 07:53:26 UTC] PHP Notice:  Undefined variable: quantity3_2 in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 929
+[12-Mar-2020 07:53:26 UTC] PHP Notice:  Undefined variable: query2 in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 987
+[12-Mar-2020 07:53:26 UTC] PHP Warning:  mysqli_query(): Empty query in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 987
+[12-Mar-2020 07:53:26 UTC] PHP Notice:  Undefined variable: query4 in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 989
+[12-Mar-2020 07:53:26 UTC] PHP Warning:  mysqli_query(): Empty query in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 989
+[12-Mar-2020 07:53:26 UTC] PHP Notice:  Undefined variable: query6 in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 991
+[12-Mar-2020 07:53:26 UTC] PHP Warning:  mysqli_query(): Empty query in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 991
+[12-Mar-2020 07:53:26 UTC] PHP Notice:  Undefined variable: query8 in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 993
+[12-Mar-2020 07:53:26 UTC] PHP Warning:  mysqli_query(): Empty query in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 993
+[12-Mar-2020 07:53:26 UTC] PHP Notice:  Undefined variable: query10 in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 995
+[12-Mar-2020 07:53:26 UTC] PHP Warning:  mysqli_query(): Empty query in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 995
+[12-Mar-2020 07:55:02 UTC] PHP Notice:  Undefined index: roll2 in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 902
+[12-Mar-2020 07:55:02 UTC] PHP Notice:  Undefined index: type in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 904
+[12-Mar-2020 07:55:02 UTC] PHP Notice:  Undefined index: color in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 905
+[12-Mar-2020 07:55:02 UTC] PHP Notice:  Undefined index: size in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 906
+[12-Mar-2020 07:55:02 UTC] PHP Notice:  Undefined index: quantity in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 907
+[12-Mar-2020 07:55:02 UTC] PHP Notice:  Undefined variable: quantity3_2 in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 929
+[12-Mar-2020 07:55:02 UTC] PHP Notice:  Undefined variable: query2 in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 987
+[12-Mar-2020 07:55:02 UTC] PHP Warning:  mysqli_query(): Empty query in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 987
+[12-Mar-2020 07:55:02 UTC] PHP Notice:  Undefined variable: query4 in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 989
+[12-Mar-2020 07:55:02 UTC] PHP Warning:  mysqli_query(): Empty query in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 989
+[12-Mar-2020 07:55:02 UTC] PHP Notice:  Undefined variable: query6 in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 991
+[12-Mar-2020 07:55:02 UTC] PHP Warning:  mysqli_query(): Empty query in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 991
+[12-Mar-2020 07:55:02 UTC] PHP Notice:  Undefined variable: query8 in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 993
+[12-Mar-2020 07:55:02 UTC] PHP Warning:  mysqli_query(): Empty query in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 993
+[12-Mar-2020 07:55:02 UTC] PHP Notice:  Undefined variable: query10 in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 995
+[12-Mar-2020 07:55:02 UTC] PHP Warning:  mysqli_query(): Empty query in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 995
+[12-Mar-2020 08:02:18 UTC] PHP Notice:  Undefined index: type in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 453
+[12-Mar-2020 08:02:18 UTC] PHP Notice:  Undefined index: color in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 454
+[12-Mar-2020 08:02:18 UTC] PHP Notice:  Undefined index: size in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 455
+[12-Mar-2020 08:02:18 UTC] PHP Notice:  Undefined index: quantity in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 456
+[12-Mar-2020 08:02:18 UTC] PHP Notice:  Undefined variable: query2 in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 536
+[12-Mar-2020 08:02:18 UTC] PHP Warning:  mysqli_query(): Empty query in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 536
+[12-Mar-2020 08:02:18 UTC] PHP Notice:  Undefined variable: query4 in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 538
+[12-Mar-2020 08:02:18 UTC] PHP Warning:  mysqli_query(): Empty query in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 538
+[12-Mar-2020 08:02:18 UTC] PHP Notice:  Undefined variable: query6 in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 540
+[12-Mar-2020 08:02:18 UTC] PHP Warning:  mysqli_query(): Empty query in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 540
+[12-Mar-2020 08:02:18 UTC] PHP Notice:  Undefined variable: query8 in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 542
+[12-Mar-2020 08:02:18 UTC] PHP Warning:  mysqli_query(): Empty query in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 542
+[12-Mar-2020 08:02:18 UTC] PHP Notice:  Undefined variable: query10 in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 544
+[12-Mar-2020 08:02:18 UTC] PHP Warning:  mysqli_query(): Empty query in /home/a4981ws4tnvi/public_html/eurasia-admin/viewfabrics.php on line 544
+[12-Mar-2020 08:02:29 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/stich.php on line 551
+[12-Mar-2020 08:02:29 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/stich.php on line 551
+[12-Mar-2020 08:02:29 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/stich.php on line 551
+[12-Mar-2020 08:02:29 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/stich.php on line 551
+[12-Mar-2020 08:02:29 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/stich.php on line 551
+[12-Mar-2020 08:02:40 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/stich.php on line 551
+[12-Mar-2020 08:02:40 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/stich.php on line 551
+[12-Mar-2020 08:02:40 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/stich.php on line 551
+[12-Mar-2020 08:02:40 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/stich.php on line 551
+[12-Mar-2020 08:02:40 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/stich.php on line 551
+[19-Mar-2020 14:38:36 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewproduct.php on line 493
+[19-Mar-2020 14:38:36 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewproduct.php on line 493
+[19-Mar-2020 14:38:36 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewproduct.php on line 493
+[19-Mar-2020 14:38:37 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewproduct.php on line 493
+[19-Mar-2020 14:38:37 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewproduct.php on line 493
+[19-Mar-2020 14:39:14 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/stich.php on line 551
+[19-Mar-2020 14:39:14 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/stich.php on line 551
+[19-Mar-2020 14:39:14 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/stich.php on line 551
+[19-Mar-2020 14:39:14 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/stich.php on line 551
+[19-Mar-2020 14:39:14 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/stich.php on line 551
+[19-Mar-2020 14:39:27 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewproduct.php on line 493
+[19-Mar-2020 14:39:27 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewproduct.php on line 493
+[19-Mar-2020 14:39:27 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewproduct.php on line 493
+[19-Mar-2020 14:39:27 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewproduct.php on line 493
+[19-Mar-2020 14:39:27 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewproduct.php on line 493
+[19-Mar-2020 14:39:31 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/a4981ws4tnvi/public_html/eurasia-admin/fabricdetail.php on line 498
+[19-Mar-2020 14:39:31 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a4981ws4tnvi/public_html/eurasia-admin/fabricdetail.php on line 500
+[19-Mar-2020 14:39:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/a4981ws4tnvi/public_html/eurasia-admin/fabricdetail.php:512
+Stack trace:
+#0 {main}
+  thrown in /home/a4981ws4tnvi/public_html/eurasia-admin/fabricdetail.php on line 512
+[19-Mar-2020 14:39:38 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/stich.php on line 551
+[19-Mar-2020 14:39:38 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/stich.php on line 551
+[19-Mar-2020 14:39:38 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/stich.php on line 551
+[19-Mar-2020 14:39:38 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/stich.php on line 551
+[19-Mar-2020 14:39:38 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/stich.php on line 551
+[19-Mar-2020 14:39:42 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewdesign.php on line 492
+[19-Mar-2020 14:39:42 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewdesign.php on line 492
+[19-Mar-2020 14:39:42 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewdesign.php on line 492
+[19-Mar-2020 14:39:42 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewdesign.php on line 492
+[19-Mar-2020 14:39:42 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewdesign.php on line 492
+[19-Mar-2020 14:40:20 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewproduct.php on line 493
+[19-Mar-2020 14:40:20 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewproduct.php on line 493
+[19-Mar-2020 14:40:20 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewproduct.php on line 493
+[19-Mar-2020 14:40:20 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewproduct.php on line 493
+[19-Mar-2020 14:40:20 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewproduct.php on line 493
+[19-Mar-2020 14:40:23 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/stich.php on line 551
+[19-Mar-2020 14:40:23 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/stich.php on line 551
+[19-Mar-2020 14:40:23 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/stich.php on line 551
+[19-Mar-2020 14:40:23 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/stich.php on line 551
+[19-Mar-2020 14:40:23 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/stich.php on line 551
+[19-Mar-2020 14:40:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/a4981ws4tnvi/public_html/eurasia-admin/emb.php on line 3
+[19-Mar-2020 14:40:27 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/a4981ws4tnvi/public_html/eurasia-admin/emb.php on line 5
+[19-Mar-2020 14:40:33 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/a4981ws4tnvi/public_html/eurasia-admin/fabricdetail.php on line 498
+[19-Mar-2020 14:40:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a4981ws4tnvi/public_html/eurasia-admin/fabricdetail.php on line 500
+[19-Mar-2020 14:40:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/a4981ws4tnvi/public_html/eurasia-admin/fabricdetail.php:512
+Stack trace:
+#0 {main}
+  thrown in /home/a4981ws4tnvi/public_html/eurasia-admin/fabricdetail.php on line 512
+[20-Mar-2020 17:15:47 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewdesign.php on line 492
+[20-Mar-2020 17:15:47 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewdesign.php on line 492
+[20-Mar-2020 17:15:47 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewdesign.php on line 492
+[20-Mar-2020 17:15:47 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewdesign.php on line 492
+[20-Mar-2020 17:15:47 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewdesign.php on line 492
+[20-Mar-2020 18:03:20 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/a4981ws4tnvi/public_html/eurasia-admin/fabricdetail.php on line 498
+[20-Mar-2020 18:03:20 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a4981ws4tnvi/public_html/eurasia-admin/fabricdetail.php on line 500
+[20-Mar-2020 18:03:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/a4981ws4tnvi/public_html/eurasia-admin/fabricdetail.php:512
+Stack trace:
+#0 {main}
+  thrown in /home/a4981ws4tnvi/public_html/eurasia-admin/fabricdetail.php on line 512
+[20-Mar-2020 18:03:23 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewdesign.php on line 492
+[20-Mar-2020 18:03:23 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewdesign.php on line 492
+[20-Mar-2020 18:03:23 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewdesign.php on line 492
+[20-Mar-2020 18:03:23 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewdesign.php on line 492
+[20-Mar-2020 18:03:23 UTC] PHP Notice:  Undefined variable: files in /home/a4981ws4tnvi/public_html/eurasia-admin/viewdesign.php on line 492
